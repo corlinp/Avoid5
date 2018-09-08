@@ -15,13 +15,19 @@ python avoid5.py
 
 > That's particular small footfall for a man, a giant upswing for mankind
 
+---
+
 _To be or not to be, that is the question._
 
 > To act or not to act that is that inquiry
 
+---
+
 _there is no place like home_
 
 > at hand is no city allying familiar
+
+---
 
 _A rose by any other name would smell as sweet_
 
