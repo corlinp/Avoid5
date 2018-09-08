@@ -35,4 +35,4 @@ __A blush by any auxiliary brand would aroma as luscious__
 
 You can add words to 'common' that this script is wrong about.
 
-You can also work to boost the handling of punctuation.
+You can also work to boost the handling of punctuation, contractions, and plurals.
