@@ -3,11 +3,11 @@ A script to fix any words that contain fifthglyphs - using synonyms!
 
 ## Usage
 
-`git clone https://github.com/corlinp/Avoid5.git`
-`pip install thesaurus`
-`python avoid5.py`
-
 ```
+git clone https://github.com/corlinp/Avoid5.git
+pip install thesaurus
+python avoid5.py
+
 python avoid5.py
 Input words with dirty glyphs: That's one small step for a man, a giant leap for mankind
 That's particular small footfall for a man, a giant upswing for mankind
