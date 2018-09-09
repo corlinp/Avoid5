@@ -9,7 +9,7 @@ common = {
 
 def has5(word):
     for glyph in word:
-        if glyph == 'e':
+        if glyph.lower() == 'e':
             return True
     return False
 
